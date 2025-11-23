@@ -10,7 +10,7 @@ The model consists of **5 main blocks**:
 - **1 Dense Block (Classifier)**
 
 Each convolutional block includes:
-- **2 Convolutional Layers**
+- **3 Convolutional Layers**
 - **1 MaxPooling Layer (2×2)**
 
 The classifier block includes:
